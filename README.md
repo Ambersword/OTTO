@@ -3,9 +3,9 @@
 Introdction:
 
 Goal of the Competition
-The goal of this competition is to predict e-commerce clicks, cart additions, and orders. You'll build a multi-objective recommender system based on previous events in a user session.
+The goal of this competition is to predict e-commerce clicks, cart additions, and orders. I build a multi-objective recommender system based on previous events in a user session.
 
-Your work will help improve the shopping experience for everyone involved. Customers will receive more tailored recommendations while online retailers may increase their sales.
+My work will help improve the shopping experience for everyone involved. Customers will receive more tailored recommendations while online retailers may increase their sales.
 
 In this model, I considered and compared different models such as XGboost, Recall system, Item collabration. 
 Every session includes clicks, carts, orders, and time stampes. 
